@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppStore>
+	<App>
+		<name>PaasManagement</title>
+	</App>
+	<App>
+		<name>AdministrationModule</title>
+	</App>
+	<App>
+		<name>SecurityManagement</title>
+	</App>
+	<App>
+		<name>WorkflowSetup</title>
+	</App>
+	<App>
+		<name>AggrModelManagement</title>
+	</App>
+	<App>
+		<name>UserSetupManagement</title>
+	</App>
+	<App>
+		<name>ZOPSManagement</title>
+	</App>
+	<App>
+		<name>ContentManagement</title>
+	</App>
+
+	<App>
+		<name>FundRaisingManagement</title>
+	</App>
+	<App>
+		<name>FundRaisingRefManagement</title>
+	</App>
+	<App>
+		<name>ClientManagement</title>
+	</App>
+	<App>
+		<name>FundRaisingManagement</title>
+	</App>
+	<App>
+		<name>TravelManager</title>
+	</App>
+</feed>
