@@ -2,42 +2,42 @@
 <AppStore>
 	<App>
 		<name>PaasManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>AdministrationModule</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>SecurityManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>WorkflowSetup</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>AggrModelManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>UserSetupManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>ZOPSManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>ContentManagement</name>
-	</App>
+	<version>0</version></App>
 
 	<App>
 		<name>FundRaisingManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>FundRaisingRefManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>ClientManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>FundRaisingManagement</name>
-	</App>
+	<version>0</version></App>
 	<App>
 		<name>TravelManager</name>
-	</App>
+	<version>0</version></App>
 </AppStore>
